@@ -1,5 +1,6 @@
 [
     {
+        "id":"1",
       "chef_name": "Nadia Ahmed",
       "years_of_experience": 10,
       "number_of_recipes": 150,
@@ -18,6 +19,7 @@
       ]
     },
     {
+        "id":"2",
       "chef_name": "Kabir Khan",
       "years_of_experience": 15,
       "number_of_recipes": 200,
@@ -34,6 +36,7 @@
       ]
     },
     {
+        "id":"3",
       "chef_name": "Rahima Begum",
       "years_of_experience": 20,
       "number_of_recipes": 300,
@@ -54,6 +57,7 @@
         ]
     },
     {
+        "id":"4",
         "chef_name": "Shahidul Islam",
         "years_of_experience": 12,
         "number_of_recipes": 180,
@@ -70,7 +74,25 @@
         
         ]
     },
+    {
+        "id":"5",
+        "chef_name": "Samia Khan",
+        "years_of_experience": 15,
+        "number_of_recipes": 200,
+        "rating": 4.7,
+        "description": "Kabir Khan is a renowned Bangladeshi chef with over 15 years of experience in creating delicious and authentic Bangladeshi dishes. He has developed 200 recipes that showcase the rich flavors and traditions of Bangladeshi cuisine. With a rating of 4.7, Kabir is known for his mastery of traditional cooking techniques and his ability to create dishes that are both flavorful and visually appealing. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+        "picture": "https://example.com/images/chef2.jpg",
+        "popular_recipes": [
+          "Rice pudding",
+          "Shami kebab",
+          "Bhapa pitha (steamed rice cake)",
+          "Beef curry",
+          "Machher jhol (fish stew)"
+        
+        ]
+      },
         {
+        "id":"6",
         "chef_name": "Nashit Ahmed",
         "years_of_experience": 8,
         "number_of_recipes": 120,
