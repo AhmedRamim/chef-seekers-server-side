@@ -1,0 +1,87 @@
+[
+    {
+      "chef_name": "Nadia Ahmed",
+      "years_of_experience": 10,
+      "number_of_recipes": 150,
+      "rating": 4.5,
+      "description": "Nadia Ahmed is a talented chef from Bangladesh with over 10 years of experience in creating mouth-watering dishes. She has developed 150 recipes that reflect her love for Bangladeshi cuisine and showcase the diverse flavors of the region. With a rating of 4.5, Nadia is known for her innovative approach to cooking and her ability to fuse traditional Bangladeshi ingredients with modern cooking techniques. Her passion for food is evident in every dish she creates, and she takes pride in sharing her knowledge and skills with others.",
+      "picture": "https://example.com/images/chef1.jpg",
+      "popular_recipes": [
+        "Biriyani",
+        "Fish curry",
+        "Chapati",
+        "Lentil soup",
+        "Chicken Rezala",
+        "Beef Bhuna"
+       
+        
+      ]
+    },
+    {
+      "chef_name": "Kabir Khan",
+      "years_of_experience": 15,
+      "number_of_recipes": 200,
+      "rating": 4.7,
+      "description": "Kabir Khan is a renowned Bangladeshi chef with over 15 years of experience in creating delicious and authentic Bangladeshi dishes. He has developed 200 recipes that showcase the rich flavors and traditions of Bangladeshi cuisine. With a rating of 4.7, Kabir is known for his mastery of traditional cooking techniques and his ability to create dishes that are both flavorful and visually appealing. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "picture": "https://example.com/images/chef2.jpg",
+      "popular_recipes": [
+        "Rice pudding",
+        "Shami kebab",
+        "Bhapa pitha (steamed rice cake)",
+        "Beef curry",
+        "Machher jhol (fish stew)"
+      
+      ]
+    },
+    {
+      "chef_name": "Rahima Begum",
+      "years_of_experience": 20,
+      "number_of_recipes": 300,
+      "rating": 4.9,
+      "description": "Rahima Begum is a highly skilled Bangladeshi chef with over 20 years of experience in creating mouth-watering dishes. She has developed 300 recipes that reflect her passion for Bangladeshi cuisine and showcase the diverse flavors and techniques of the region. With a rating of 4.9, Rahima is known for her innovative approach to cooking and her ability to create dishes that are both flavorful and healthy. Her passion for food is evident in every dish she creates, and she loves to share her knowledge and skills with others.",
+      "picture": "https://",
+      "popular_recipes": [
+        "Prawn masala",
+        "Niramish mangsho (vegetarian mutton curry)",
+        "Murgir jhol (chicken curry)",
+        "Pitha (rice cake)",
+        "Ghugni (yellow pea curry)",
+        "Sorshe chingri (prawns cooked in mustard sauce)",
+        "Bhorta (mashed vegetable dish)",
+        "Mutton bhuna",
+        "Dal (lentil soup)",
+        "Chitol macher muitha (fish dumplings in sweet gravy)"
+        ]
+    },
+    {
+        "chef_name": "Shahidul Islam",
+        "years_of_experience": 12,
+        "number_of_recipes": 180,
+        "rating": 4.6,
+        "description": "Shahidul Islam is a talented Bangladeshi chef with over 12 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Shahidul is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+        "picture": "https://example.com/images/chef4.jpg",
+        "popular_recipes": [
+        "Khichuri (rice and lentil stew)",
+        "Aloo bhaja (crispy fried potatoes)",
+        "Bhorta (mashed vegetable dish)",
+        "Prawn bhuna",
+        "Chicken korma",
+        "Sobji bhaji (vegetable stir-fry)"
+        
+        ]
+    },
+        {
+        "chef_name": "Nashit Ahmed",
+        "years_of_experience": 8,
+        "number_of_recipes": 120,
+        "rating": 4.4,
+        "description": "Nashit Ahmed is a young and talented Bangladeshi chef with 8 years of experience in creating delicious and innovative dishes. He has developed 120 recipes that showcase the unique flavors and ingredients of Bangladeshi cuisine. With a rating of 4.4, Nashit is known for his creativity and his ability to create dishes that are both visually appealing and delicious. His passion for food is evident in every dish he creates, and he loves to experiment with new flavors and ingredients.",
+        "picture": "https://example.com/images/chef5.jpg",
+        "popular_recipes": [
+        "Morog pulao (chicken pilaf)",
+        "Bhuna khichuri (spicy rice and lentil stew)",
+        "Sobji bhaji (vegetable stir-fry)"
+        ]
+        }
+    ]
+  
