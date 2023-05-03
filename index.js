@@ -8,9 +8,11 @@ app.use(cors())
 app.get('/',(req,res) => {
     res.send(chefs)
 })
-app.get('/chefsdetails/:id',(req,res)=> {
+
+
+app.get('/chefsdetails/:id',(req,res)=> {   
     const id = req.params.id;
-    const chefsDetails = chefs.find(ch => ch.id === id)
+    const chefsDetails = chefs.find(details => details.id === id)
     res.send(chefsDetails)
 })
 
